@@ -1,8 +1,8 @@
 ## 📋 Overview
 
 This project investigates global climate attitudes using supervised and unsupervised machine learning approaches. We address two key research questions:
-1. ** Can machine learning models predict strong support for climate commitments?**
-2. ** Do demographic factors or attitudes play a greater role in determining support?**
+1. **Can machine learning models predict strong support for climate commitments?**
+2. **Do demographic factors or attitudes play a greater role in determining support?**
 
 
 ### Key Findings
