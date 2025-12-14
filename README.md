@@ -83,6 +83,15 @@ Country × Age was selected because:
  Clear **North-South divide** — Developing nations show higher urgency for climate action than developed economies.
 
  ---
+ ### Team Name (Nine Tales):
+| Name                           | Student ID  | Email                  |
+|--------------------------------|-------------|-------------------------|
+| Nilavan Sritharan              | 201997034   | shvj0061@leeds.ac.uk   |
+| Asjad Moiz Khan                | 202023700   | gfqs0308@leeds.ac.uk   |
+| Krithik Sharan Suresh Alagianayagi | 202000567 | mxnp0398@leeds.ac.uk   |
+| Zhenny Marifatul Husna         | 201859055   | dpvq0990@leeds.ac.uk   |
+
+---
 
 
 ## 📚 References
